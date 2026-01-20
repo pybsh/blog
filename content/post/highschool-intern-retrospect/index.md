@@ -6,7 +6,7 @@ tags:
     - retrospect
 categories:
     - retrospect
-image: cover.png
+image: cover.jpg
 ---
 ## 고등학생 현장실습 기업 지원 전
 
